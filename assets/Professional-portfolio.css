@@ -129,7 +129,7 @@ section h1 .seo {
   border: 3px solid lightblue;
   grid-column:span 8;
   grid-row: span 2;
-  background-image: url("./assets/computers.jpg");
+  background-image: url("./computers.jpg");
   background-size: cover;
 }
 .Horiseon-Project button {
@@ -146,7 +146,7 @@ transition: 0.6s
 }
 .grid-item-comingsoon {
   border: 3px solid lightblue;
-  background-image: url("./assets/keyboard.jpeg");
+  background-image: url("./keyboard.jpeg");
   background-size: cover;
   grid-column: span 4;
 }
@@ -161,7 +161,7 @@ transition: 0.6s
 }
 .grid-item-comingsoon1 {
   border: 3px solid lightblue;
-  background-image: url("./assets/LED.jpeg");
+  background-image: url("./LED.jpeg");
   background-size: cover;
   grid-column: span 4;
 }
@@ -176,7 +176,7 @@ transition: 0.6s
 }
 .grid-item-comingsoon2 {
   border: 3px solid lightblue;
-  background-image: url("./assets/orange.jpeg");
+  background-image: url("./orange.jpeg");
   background-size: cover;
   grid-column: span 4;
 }
@@ -191,7 +191,7 @@ transition: 0.6s
 }
 .grid-item-comingsoon3 {
   border: 3px solid lightblue;
-  background-image: url("./assets/bluehex.jpg");
+  background-image: url("./bluehex.jpg");
   background-size: cover;
   grid-column: span 4;
 }
