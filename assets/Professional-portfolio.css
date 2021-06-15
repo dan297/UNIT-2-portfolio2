@@ -251,4 +251,21 @@ section h1 .me {
   font-weight: bolder;
 }
 
+@media screen and (max-width: 992px) {
+    section {
+        padding: 30px 15px;
+    }
+    .about, .grid, .contact {
+        display: block;
+    }
+    .section-title-1, .section-title-2, .section-title-3 {
+        padding: 0 20px 10px 5px;
+        flex: 1 100%;
+        text-align: center;
+    }
+    .dividing-border {
+        flex: 2 100%;
+        border-left: 0;
+    }
+
 
